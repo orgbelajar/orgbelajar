@@ -1,3 +1,4 @@
+<!--
 Hi 👋, I am **Gii** an enthusiastic and ambitious full stack developer, CPO at Basket Entertainment / Weave, former Product Lead at [@PicnicApp](https://www.linkedin.com/company/get-picnic/mycompany/) and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
 
 <div>
@@ -17,9 +18,8 @@ Hi 👋, I am **Gii** an enthusiastic and ambitious full stack developer, CPO at
 - 📫 Reach me out at **contact@miaxu.co**
 
 </details>
-  
-</p>
-  
+-->
+
 ## 🔥 Github Stats
 
 <img align="right" width="38%" src="https://i.pinimg.com/736x/28/85/36/28853647205684eaa9cb634b0e2785fa.jpg"/>
@@ -43,12 +43,14 @@ Hi 👋, I am **Gii** an enthusiastic and ambitious full stack developer, CPO at
 [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=Jira&logoColor=white)](#)
+[![Node](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=Javascript&logoColor=white)](#)
 
 <h4>🛠️ Tools </h4>
   
 [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=Jira&logoColor=white)](#)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   
 
 
