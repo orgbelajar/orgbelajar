@@ -1,31 +1,24 @@
-<!--
-Hi 👋, I am **Gii** an enthusiastic and ambitious full stack developer, CPO at Basket Entertainment / Weave, former Product Lead at [@PicnicApp](https://www.linkedin.com/company/get-picnic/mycompany/) and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+### Hi 👋, I'm Nabil. 
+An aspiring Software Engineer currently learning and exploring the worlds of Backend Development and DevOps. As an Informatics student, I often find myself interacting with the terminal and AI more than people (just kidding 😅). My current focus is to keep learning and leveling up my skills just like Solo Leveling ⚔️🔝🆙.
+<details> 
+  <summary>😎 Get to know me better</summary>
 
-<div>
-<details>
-  <summary>🧑 More about me</summary>
-
-- 🔭 I’m currently on a journey to build **great** things
-
-- 🌱 I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
-
-- 💬 Ask me about **open source, web development, and community management**
-
-- 📫 Reach me out at **contact@miaxu.co**
-
+- 🔭 I’m currently building great things (at least they run smoothly on localhost).
+- 👨‍💻 I’m learning everything about Backend & DevOps, because in the tech world, "stop learning" is just a myth 🤓.
+- 🤝 I’m looking for partners or peers who are interested in discussing and collaborating in the same fields.
+- 📂 My coding journey and projects are documented at [insert your portfolio/GitHub link here].
+- 📫 Reach out to me at nabilsyakir95@gmail.com.
 </details>
--->
 
 ## 🔥 Github Stats
-
 <img align="right" width="38%" src="https://i.pinimg.com/736x/28/85/36/28853647205684eaa9cb634b0e2785fa.jpg"/>
-
-  <a href="https://github.com/orgbelajar"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=orgbelajar&show_icons=true&theme=vision-friendly-dark&rank_icon=github"></a>
-  <a href="https://github.com/orgbelajar"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=orgbelajar&theme=vision-friendly-dark&short_numbers=true" alt="GitHub Streak"></a>
+<p align="left">
+  <a href="https://github.com/dimasmds">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=orgbelajar&show_icons=true&theme=vision-friendly-dark&rank_icon=github"></a>
+    <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=orgbelajar&theme=vision-friendly-dark&short_numbers=true" alt="GitHub Streak"></a>
+    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=orgbelajar&layout=compact&langs_count=8&theme=vision-friendly-dark&card_weight=300"/>
+  </a>
+</p>
 
 <!--
 📘 My top open source projects
@@ -51,18 +44,3 @@ Hi 👋, I am **Gii** an enthusiastic and ambitious full stack developer, CPO at
 [![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=Jira&logoColor=white)](#)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  
-
-
-<p align="left">
-  <br>
-  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-<p align="right">
-  <a href="https://github.com/orgbelajar?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Forgbelajar"/></a>
-  <a href="https://github.com/orgbelajar?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/orgbelajar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
-</p>
