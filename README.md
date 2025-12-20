@@ -1,4 +1,4 @@
-### Hi 👋, I'm Nabil. 
+### Hi 👋, I'm Nabil.
 An aspiring Software Engineer currently learning and exploring the worlds of Backend Development and DevOps. As an Informatics student, I often find myself interacting with the terminal and AI more than people (just kidding 😅). My current focus is to keep learning and leveling up my skills just like Solo Leveling ⚔️🔝🆙.
 <details> 
   <summary>😎 Get to know me better</summary>
@@ -36,15 +36,17 @@ An aspiring Software Engineer currently learning and exploring the worlds of Bac
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## Reach me on
-<p id="socialIcons" align="center">
-    <a href="https://linkedin.com/in/ahsankhan26" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-    </a>
-    <a href="https://hackerrank.com/ahsankhan26" alt="HackerRank">
-        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
-    </a>
-    <a href="https://stackoverflow.com/users/13870209/ahsan-khan" alt="StackOverflow">
-        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
-    </a>
+## 🔗 Reach me on
+<p align="center">
+  <a href="www.linkedin.com/in/nabil-ihsan-syakir-b65b74224" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/nabbiil._?igsh=MWdoZmR6ZDBuNjh4aA==" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/orangbelajar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
