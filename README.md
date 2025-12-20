@@ -13,10 +13,10 @@ An aspiring Software Engineer currently learning and exploring the worlds of Bac
 ## 🔥 Github Stats
 <img align="right" width="47%" src="https://i.pinimg.com/736x/28/85/36/28853647205684eaa9cb634b0e2785fa.jpg"/>
 <p align="left">
-  <a href="https://github.com/dimasmds">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=orgbelajar&show_icons=true&theme=vision-friendly-dark&rank_icon=github"></a>
-    <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=orgbelajar&theme=vision-friendly-dark&short_numbers=true" alt="GitHub Streak"></a>
-    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=orgbelajar&layout=compact&langs_count=8&theme=vision-friendly-dark&card_weight=300"/>
+  <a href="https://github.com/orgbelajar">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=orgbelajar&show_icons=true&theme=vision-friendly-dark&rank_icon=github"/>
+    <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=orgbelajar&theme=vision-friendly-dark&short_numbers=true" alt="GitHub Streak"/>
+    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=orgbelajar&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
   </a>
 </p>
 
