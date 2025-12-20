@@ -11,7 +11,7 @@ An aspiring Software Engineer currently learning and exploring the worlds of Bac
 </details>
 
 ## 🔥 Github Stats
-<img align="right" width="47%" src="https://i.pinimg.com/736x/28/85/36/28853647205684eaa9cb634b0e2785fa.jpg"/>
+<img align="right" width="45%" src="https://i.pinimg.com/736x/28/85/36/28853647205684eaa9cb634b0e2785fa.jpg"/>
 <p align="left">
   <a href="https://github.com/orgbelajar">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=orgbelajar&show_icons=true&theme=vision-friendly-dark&rank_icon=github"/>
