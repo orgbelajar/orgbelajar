@@ -6,7 +6,7 @@ An aspiring Software Engineer currently learning and exploring the worlds of Bac
 - 🔭 I’m currently building great things (at least they run smoothly on localhost).
 - 👨‍💻 I’m learning everything about Backend & DevOps, because in the tech world, "stop learning" is just a myth 🤓.
 - 🤝 I’m looking for partners or peers who are interested in discussing and collaborating in the same fields.
-- 📂 My coding journey and projects are documented at [insert your portfolio/GitHub link here].
+- 📂 My coding journey and projects are documented at https://github.com/orgbelajar?tab=repositories.
 - 📫 Reach out to me at nabilsyakir95@gmail.com.
 </details>
 
