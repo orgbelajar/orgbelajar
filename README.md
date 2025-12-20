@@ -20,27 +20,31 @@ An aspiring Software Engineer currently learning and exploring the worlds of Bac
   </a>
 </p>
 
-<!--
-📘 My top open source projects
+### 🛠️ Tech Stack
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<p align="left">
-    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## Reach me on
+<p id="socialIcons" align="center">
+    <a href="https://linkedin.com/in/ahsankhan26" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+    </a>
+    <a href="https://hackerrank.com/ahsankhan26" alt="HackerRank">
+        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
+    </a>
+    <a href="https://stackoverflow.com/users/13870209/ahsan-khan" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
+    </a>
 </p>
--->
-
-
-<h3>🖥️ Technologies and Skills</h3>
-<h4>📚 Languages </h4>
-  
-[![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=Jira&logoColor=white)](#)
-[![Node](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=Javascript&logoColor=white)](#)
-
-<h4>🛠️ Tools </h4>
-  
-[![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=Jira&logoColor=white)](#)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
