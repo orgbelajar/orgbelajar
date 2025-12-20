@@ -7,7 +7,7 @@ An aspiring Software Engineer currently learning and exploring the worlds of Bac
 - 👨‍💻 I’m learning everything about Backend & DevOps, because in the tech world, "stop learning" is just a myth 🤓.
 - 🤝 I’m looking for partners or peers who are interested in discussing and collaborating in the same fields.
 - 📂 My coding journey and projects are documented at [My Repositories](https://github.com/orgbelajar?tab=repositories).
-- 📫 Reach out to me at [nabilsyakir95@gmail.com](mailto:nabilsyakir95@gmail.com?subject=Hi%20Nabil,%20I%20saw%20your%20GitHub%20profile).
+- 📫 Reach out to me at [nabilsyakir95@gmail.com](mailto:nabilsyakir95@gmail.com).
 </details>
 
 ## 🔥 Github Stats
