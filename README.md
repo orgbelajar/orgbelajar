@@ -14,7 +14,7 @@ An aspiring Software Engineer currently learning and exploring the worlds of Bac
 <img align="right" width="46%" src="https://media1.tenor.com/m/LqPH2ToXFzIAAAAC/zenitsu.gif"/>
 <p align="left">
   <a href="https://github.com/orgbelajar">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=orgbelajar&show_icons=true&theme=vision-friendly-dark&rank_icon=github"/>
+    <!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=orgbelajar&show_icons=true&theme=vision-friendly-dark&rank_icon=github"/> -->
     <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=orgbelajar&theme=vision-friendly-dark&short_numbers=true" alt="GitHub Streak"/>
     <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=orgbelajar&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
   </a>
