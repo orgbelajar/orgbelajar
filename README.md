@@ -1,7 +1,7 @@
-### Hi 👋, I'm Nabil.
-An aspiring Software Engineer currently learning and exploring the worlds of Backend Development and DevOps. As an Informatics student, I often find myself interacting with the terminal and AI more than people (just kidding 😅). My current focus is to keep learning and leveling up my skills just like Solo Leveling ⚔️🔝🆙.
+### Hi, I'm Nabil.
+An aspiring Software Engineer currently learning and exploring the worlds of Backend Development and DevOps. As an Informatics student, I often find myself interacting with the terminal and AI more than people (just kidding). My current focus is to keep learning and leveling up my skills just like Solo Leveling.
 <details> 
-  <summary>😎 Get to know me better</summary>
+  <summary>Get to know me better</summary>
 
 - 🔭 I’m currently building great things (at least they run smoothly on localhost).
 - 👨‍💻 I’m learning everything about Backend & DevOps, because in the tech world, "stop learning" is just a myth 🤓.
